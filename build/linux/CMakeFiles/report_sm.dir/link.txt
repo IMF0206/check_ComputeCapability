@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/report_sm.dir/src/check_cc.cpp.o  -o report_sm  /usr/local/cuda-10.0/lib64/libcudart_static.a -ldl -lrt -lcuda -lpthread 

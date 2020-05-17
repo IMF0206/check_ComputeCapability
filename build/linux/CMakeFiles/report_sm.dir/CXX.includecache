@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zz/work/check_ComputeCapability/src/check_cc.cpp
+stdio.h
+-
+cuda.h
+-
+drvapi_error_string.h
+/home/zz/work/check_ComputeCapability/src/drvapi_error_string.h
+
+/home/zz/work/check_ComputeCapability/src/drvapi_error_string.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+/usr/local/cuda-10.0/include/cuda.h
+stdlib.h
+-
+stdint.h
+-
+

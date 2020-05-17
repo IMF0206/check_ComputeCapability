@@ -1,1 +1,2 @@
-build-vs*/
+build/vs2017-x64/
+build/linux/

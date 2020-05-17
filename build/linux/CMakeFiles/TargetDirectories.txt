@@ -1,0 +1,3 @@
+/home/zz/work/check_ComputeCapability/build/linux/CMakeFiles/rebuild_cache.dir
+/home/zz/work/check_ComputeCapability/build/linux/CMakeFiles/edit_cache.dir
+/home/zz/work/check_ComputeCapability/build/linux/CMakeFiles/report_sm.dir
